@@ -5153,3 +5153,743 @@ Trading in the Zone: Master the Market with Confidence, Discipline, and a Winnin
 
 
 ==========
+Professional-Web-Developer-2022  
+- Your Highlight on page 21-21 | Added on Saturday, March 9, 2024 5:18:35 PM
+
+<title>
+==========
+Professional-Web-Developer-2022  
+- Your Highlight on page 21-21 | Added on Saturday, March 9, 2024 5:18:39 PM
+
+<h1><h2><h3><h4><h5><h6>
+==========
+Professional-Web-Developer-2022  
+- Your Highlight on page 22-22 | Added on Saturday, March 9, 2024 5:20:04 PM
+
+<p>
+==========
+Professional-Web-Developer-2022  
+- Your Highlight on page 22-22 | Added on Saturday, March 9, 2024 5:20:08 PM
+
+<ul> <ol> <li>
+==========
+Professional-Web-Developer-2022  
+- Your Highlight on page 23-23 | Added on Saturday, March 9, 2024 5:20:29 PM
+
+Element Structure
+==========
+Professional-Web-Developer-2022  
+- Your Highlight on page 24-24 | Added on Saturday, March 9, 2024 5:24:11 PM
+
+HTML Element နဲ့ Attribute တအားလုံးကို စာလုံး အးတနဲ့ချည်းပဲ အမဲတမ်း ရးသင့်ပါတယ်
+==========
+Professional-Web-Developer-2022  
+- Your Highlight on page 25-25 | Added on Saturday, March 9, 2024 5:39:20 PM
+
+Important Elements
+==========
+Professional-Web-Developer-2022  
+- Your Highlight on page 25-25 | Added on Saturday, March 9, 2024 5:39:24 PM
+
+<img>
+==========
+Professional-Web-Developer-2022  
+- Your Highlight on page 25-25 | Added on Saturday, March 9, 2024 5:39:43 PM
+
+src Attribute
+==========
+Professional-Web-Developer-2022  
+- Your Highlight on page 25-25 | Added on Saturday, March 9, 2024 5:39:46 PM
+
+alt Attribute
+==========
+Professional-Web-Developer-2022  
+- Your Highlight on page 26-26 | Added on Saturday, March 9, 2024 5:39:56 PM
+
+<a> Element
+==========
+Professional-Web-Developer-2022  
+- Your Highlight on page 26-26 | Added on Saturday, March 9, 2024 5:40:57 PM
+
+href Attribute က မgoစ်မ
+==========
+Professional-Web-Developer-2022  
+- Your Highlight on page 26-26 | Added on Saturday, March 9, 2024 5:41:10 PM
+
+title Attribute
+==========
+Professional-Web-Developer-2022  
+- Your Highlight on page 22-22 | Added on Saturday, March 9, 2024 5:42:55 PM
+
+HTML <ul> <li>Web Browser</li> <li> HTTP Server <ol> <li>CGI</li> <li>MIME</li> </ol> </li> </ul>
+==========
+Professional-Web-Developer-2022  
+- Your Highlight on page 24-24 | Added on Saturday, March 9, 2024 5:44:19 PM
+
+HTML <img src="image.jpg" alt="Background Image"> <input type="text" value="22" name="age"> <br> <hr>
+==========
+Professional-Web-Developer-2022  
+- Your Highlight on page 24-24 | Added on Saturday, March 9, 2024 5:44:25 PM
+
+HTML <img src="image.jpg" alt="Background Image" /> <input type="text" value="22" name="age" /> <br /> <hr />
+==========
+Professional-Web-Developer-2022  
+- Your Highlight on page 25-25 | Added on Saturday, March 9, 2024 5:44:44 PM
+
+HTML <img src="https://eimaung.com/img/react.png" alt="React Book Cover"> <img src="https://eimaung.com/img/laravel.png" alt="Laravel Book Cover"> <img src="https://eimaung.com/img/api.jpg" alt="API Book Cover"> ပးထားတဲ့ နမူနာရဲ့ နာက်ဆုံးတစ်ခုမှာ src က မှားနပါလိမ့်မယ်။ api.jpg ဆိုတဲ့oိုင် မရှိပါzူး။ api.png ပဲရှိပါတယ်။ အဲ့ဒီ အမှားအတိုင်း ကူးယူပီး Browser မှာစမ်းသပ်ကည့်ရင် ပုံက မှားနလို့ မပ နိုင်တဲ့အတွက် alt မှာ ပးထားတဲ့စာကို အစားထိုး ပပးတယ်ဆိုတာကို တ့ရနိုင်ပါတယ်။
+==========
+Professional-Web-Developer-2022  
+- Your Highlight on page 26-26 | Added on Saturday, March 9, 2024 5:44:55 PM
+
+HTML <a href="https://www.google.com/" title="Search">Google</a>
+==========
+Professional-Web-Developer-2022  
+- Your Highlight on page 28-28 | Added on Saturday, March 9, 2024 5:47:51 PM
+
+HTML <h2 id="ch2">Chapter Two</h2> ဒီ Element ကို လှမ်းညွန်းတဲ့ Link ကို အခုလိုရးသားနိုင်ပါတယ်။ HTML <a href="#ch2" title="Go to Chapter Two">Chapter Two</a>
+==========
+Professional-Web-Developer-2022  
+- Your Highlight on page 28-28 | Added on Saturday, March 9, 2024 5:48:50 PM
+
+HTML <a href="https://en.wikipedia.org/wiki/HTML">HTML</a> <a href="https://en.wikipedia.org/wiki/HTML#Elements">Elements</a>
+==========
+Professional-Web-Developer-2022  
+- Your Highlight on page 28-28 | Added on Saturday, March 9, 2024 5:49:09 PM
+
+Generic Elements
+==========
+Professional-Web-Developer-2022  
+- Your Highlight on page 28-28 | Added on Saturday, March 9, 2024 5:49:18 PM
+
+<div>
+==========
+Professional-Web-Developer-2022  
+- Your Highlight on page 29-29 | Added on Saturday, March 9, 2024 6:04:11 PM
+
+<span>
+==========
+Professional-Web-Developer-2022  
+- Your Highlight on page 29-29 | Added on Saturday, March 9, 2024 6:17:08 PM
+
+Layout Elements
+==========
+Professional-Web-Developer-2022  
+- Your Highlight on page 30-30 | Added on Saturday, March 9, 2024 6:19:47 PM
+
+<header>
+==========
+Professional-Web-Developer-2022  
+- Your Highlight on page 30-30 | Added on Saturday, March 9, 2024 6:20:08 PM
+
+<footer>
+==========
+Professional-Web-Developer-2022  
+- Your Highlight on page 30-30 | Added on Saturday, March 9, 2024 6:20:17 PM
+
+<nav>
+==========
+Professional-Web-Developer-2022  
+- Your Highlight on page 30-30 | Added on Saturday, March 9, 2024 6:20:21 PM
+
+<aside>
+==========
+Professional-Web-Developer-2022  
+- Your Highlight on page 30-30 | Added on Saturday, March 9, 2024 6:20:33 PM
+
+<section>
+==========
+Professional-Web-Developer-2022  
+- Your Highlight on page 30-30 | Added on Saturday, March 9, 2024 6:20:46 PM
+
+<article>
+==========
+Professional-Web-Developer-2022  
+- Your Highlight on page 30-30 | Added on Saturday, March 9, 2024 6:20:52 PM
+
+ကိုယ်ပိုင် <header> တ <footer> တ ရှိလို့ရပါတယ်
+==========
+Professional-Web-Developer-2022  
+- Your Highlight on page 31-31 | Added on Saturday, March 9, 2024 6:21:17 PM
+
+<p>
+==========
+Professional-Web-Developer-2022  
+- Your Highlight on page 31-31 | Added on Saturday, March 9, 2024 6:22:09 PM
+
+<hgroup>
+==========
+Professional-Web-Developer-2022  
+- Your Highlight on page 31-31 | Added on Saturday, March 9, 2024 6:22:47 PM
+
+<main>
+==========
+Professional-Web-Developer-2022  
+- Your Highlight on page 31-31 | Added on Saturday, March 9, 2024 6:22:52 PM
+
+HTML <hgroup> <h1>Maing Heading</h1> <h3>Minor Heading</h3> <h2>Secondary Heading</h2> </hgroup> <main> Element ကိုတာ့ အဓိကကျတဲ့ Content အားလုံးကို စုစည်းoို့ အသုံးပုနိုင်ပါတယ်။ နမူနာပုံမှာ ပါတဲ့ <section> သာမျိုးပါပဲ။ ကွာသွားတာက <section> က သီးခား ရပ်တည်နိုင်တဲ့ အစိတ်အပိုင်းတစ်ခုသာမျိုးgoစ်ပီး <main> ကာ့ လက်ရှိ Document ရဲ့ အဓိကအစိတ်အပိုင်း ဆို တဲ့ သာမျိုးပါ။ ဒီ Element တကို သုံးလိုက်ယုံနဲ့ နမူနာပုံမှာပထားသလို Layout အသွင်အပင် ရသွားမှာ မဟုတ်zူးဆို တာကို တစ်ခါထဲ မှတ်oို့ လိုပါလိမ့်မယ်။ HTML ဆိုတာ Content ကို စုစည်းoို့သာ goစ်ပါတယ်။ အခံ အားgoင့် အသွင်အပင်ဆိုတာ သူနဲ့တိုက်ရိုက်မဆိုင်ပါzူး။ zယ် Content က zာဆိုတာကို သတ်မှတ်ပး ယုံသာ သတ်မှတ်ပးတဲ့ သာပါ။ လိုချင်တဲ့ Layout အသွင်အပင်အတွက်ကာ့ ကိုယ်zာသာ CSS လို Style Language တနဲ့ သတ်မှတ်ပးရမှာပါ။ ဒီစာအုပ်မှာ အဓိက့လာချင်တဲ့ Bootstrap လို နည်း ပညာမျိုးနဲ့လည်း သတ်မှတ်ပးနိုင်ပါတယ်။ နာက်ပိုင်းမှာ ဆက်လက်doာ်ပပါမယ်။ Table Elements Table ဟာလည်းပဲ Content တာ်ပoို့အတွက် အးပါတဲ့ Element တစ်ခုပါပဲ။ တစ်ချို့ Table ဇယားနဲ့ပရမယ့် အချက်အလက်တဆိုတာ ရှိလာမှာပါပဲ။ Table တစ်ခုသတ်မှတ်oို့အတွက် လိုအပ်တဲ့ Element (၄) မျိုး ရှိပါတယ်။ <table>, <tr>, <th> နဲ့ <td> တို့goစ်ပါတယ်။ <tr> ဆိုတာ
+==========
+Professional-Web-Developer-2022  
+- Your Highlight on page 31-31 | Added on Saturday, March 9, 2024 6:23:11 PM
+
+hgroup> <h1>Maing Heading</h1> <h3>Minor Heading</h3> <h2>Secondary Heading</h2> </hgroup
+==========
+Professional-Web-Developer-2022  
+- Your Highlight on page 31-31 | Added on Saturday, March 9, 2024 6:23:21 PM
+
+HTML <hgroup> <h1>Maing Heading</h1> <h3>Minor Heading</h3> <h2>Secondary Heading</h2> </hgroup>
+==========
+Professional-Web-Developer-2022  
+- Your Highlight on page 31-31 | Added on Saturday, March 9, 2024 6:23:38 PM
+
+Table Elements
+==========
+Professional-Web-Developer-2022  
+- Your Highlight on page 31-31 | Added on Saturday, March 9, 2024 6:24:07 PM
+
+<table>, <tr>, <th> နဲ့ <td>
+==========
+Professional-Web-Developer-2022  
+- Your Highlight on page 32-32 | Added on Saturday, March 9, 2024 6:25:32 PM
+
+HTML <table> <tr> <th>ID</th> <th>Name</th> <th>Age</th> </tr> <tr> <td>1</td> <td>Alice</td> <td>22</td> </tr> <tr> <td>2</td> <td>Bob</td> <td>23</td> </tr> </table> ဒီကုဒ်ကိုမစမ်းခင် oတ်ကည့်လိုက်ရင်ပဲ သာသzာဝ ပါလွင်ပါတယ်။ Table တစ်ခုရှိပီး Row သုံးခု ရှိပါလိမ့်မယ်။ Row တစ်ခုချင်းစီမှာ Data Column (၃) ခုစီရှိပီး၊ အါဆုံး Row ထဲက Column တက Heading Column တ goစ်ပါတယ်။ စမ်းကည့်လိုက်ရင် ရလဒ်က ဒီလိုgoစ်မှာပါ။
+==========
+Professional-Web-Developer-2022  
+- Your Highlight on page 33-33 | Added on Saturday, March 9, 2024 6:27:51 PM
+
+<thead>, <tbody> နဲ့ <tfoot>
+==========
+Professional-Web-Developer-2022  
+- Your Highlight on page 33 | Added on Saturday, March 9, 2024 6:28:04 PM
+
+colspan
+==========
+Professional-Web-Developer-2022  
+- Your Highlight on page 33 | Added on Saturday, March 9, 2024 6:28:09 PM
+
+rowspan
+==========
+Professional-Web-Developer-2022  
+- Your Highlight on page 33 | Added on Saturday, March 9, 2024 6:28:13 PM
+
+align
+==========
+Professional-Web-Developer-2022  
+- Your Highlight on page 33-33 | Added on Saturday, March 9, 2024 6:29:00 PM
+
+HTML <table> <thead> <tr> <th>ID</th> <th>Name</th> <th>Age</th> </tr> </thead>
+==========
+Professional-Web-Developer-2022  
+- Your Highlight on page 34-34 | Added on Saturday, March 9, 2024 6:29:16 PM
+
+tbody> <tr> <td>1</td> <td>Alice</td> <td>22</td> </tr> <tr> <td>2</td> <td>Bob</td> <td>23</td> </tr> </tbody> <tfoot> <tr> <th colspan="2" align="right">Total</th> <td>2</td> </tr> </tfoot> </table>
+==========
+Professional-Web-Developer-2022  
+- Your Highlight on page 34-34 | Added on Saturday, March 9, 2024 6:29:25 PM
+
+<tbody> <tr> <td>1</td> <td>Alice</td> <td>22</td> </tr> <tr> <td>2</td> <td>Bob</td> <td>23</td> </tr> </tbody> <tfoot> <tr> <th colspan="2" align="right">Total</th> <td>2</td> </tr> </tfoot> </table
+==========
+Professional-Web-Developer-2022  
+- Your Highlight on page 35-35 | Added on Saturday, March 9, 2024 6:42:23 PM
+
+Form Elements
+==========
+Professional-Web-Developer-2022  
+- Your Highlight on page 35-35 | Added on Saturday, March 9, 2024 6:42:29 PM
+
+• <label> • <input> • <textarea> • <select> • <button>
+==========
+Professional-Web-Developer-2022  
+- Your Highlight on page 36-36 | Added on Saturday, March 9, 2024 6:45:07 PM
+
+HTML <label for="name">Your Name</label> <input type="text" id="name"> <br> <label for="pwd">Password</label> <input type="password" id="pwd"> <br> <input type="submit" value="Login">
+==========
+Professional-Web-Developer-2022  
+- Your Highlight on page 37-37 | Added on Saturday, March 9, 2024 6:48:08 PM
+
+<textarea>
+==========
+Professional-Web-Developer-2022  
+- Your Highlight on page 37-37 | Added on Saturday, March 9, 2024 6:48:15 PM
+
+<select>
+==========
+Professional-Web-Developer-2022  
+- Your Highlight on page 37-37 | Added on Saturday, March 9, 2024 6:48:38 PM
+
+<option>
+==========
+Professional-Web-Developer-2022  
+- Your Highlight on page 37-37 | Added on Saturday, March 9, 2024 6:48:48 PM
+
+<button>
+==========
+Professional-Web-Developer-2022  
+- Your Highlight on page 38-38 | Added on Saturday, March 9, 2024 6:49:27 PM
+
+HTML <form> <label for="name">Your Name</label> <br> <input type="text" id="name"> <br> <label for="gender">Your Gender</label> <br> <select id="gender"> <option>Male</option> <option>Female</option> </select> <br> <label for="address">Your Address</label> <br> <textarea id="address"></textarea> <br> <button type="submit">Send</button> </form>
+==========
+Professional-Web-Developer-2022  
+- Your Highlight on page 39-39 | Added on Saturday, March 9, 2024 6:50:49 PM
+
+Formatting Elements
+==========
+Professional-Web-Developer-2022  
+- Your Highlight on page 39-39 | Added on Saturday, March 9, 2024 6:51:02 PM
+
+<b>, <strong>
+==========
+Professional-Web-Developer-2022  
+- Your Highlight on page 39-39 | Added on Saturday, March 9, 2024 6:51:07 PM
+
+<i>, <em>
+==========
+Professional-Web-Developer-2022  
+- Your Highlight on page 39-39 | Added on Saturday, March 9, 2024 6:51:18 PM
+
+<s>, <del>
+==========
+Professional-Web-Developer-2022  
+- Your Highlight on page 39-39 | Added on Saturday, March 9, 2024 6:51:26 PM
+
+<code>, <pre>
+==========
+Professional-Web-Developer-2022  
+- Your Highlight on page 39-39 | Added on Saturday, March 9, 2024 6:52:13 PM
+
+<sup>, <sub>
+==========
+Professional-Web-Developer-2022  
+- Your Highlight on page 40-40 | Added on Saturday, March 9, 2024 6:52:26 PM
+
+<blockquote>
+==========
+Professional-Web-Developer-2022  
+- Your Highlight on page 40-40 | Added on Saturday, March 9, 2024 6:52:29 PM
+
+<address>, <time>
+==========
+Professional-Web-Developer-2022  
+- Your Highlight on page 40-40 | Added on Saturday, March 9, 2024 6:52:39 PM
+
+<!-- Comment -
+==========
+Professional-Web-Developer-2022  
+- Your Highlight on page 40-40 | Added on Saturday, March 9, 2024 6:52:44 PM
+
+<!-- Comment -->
+==========
+Professional-Web-Developer-2022  
+- Your Highlight on page 40-40 | Added on Saturday, March 9, 2024 6:53:37 PM
+
+HTML Symbols
+==========
+Professional-Web-Developer-2022  
+- Your Highlight on page 40-40 | Added on Saturday, March 9, 2024 6:53:41 PM
+
+HTML <p>Copyright &copy; Fairway Technology &trade;</p>
+==========
+Professional-Web-Developer-2022  
+- Your Highlight on page 41-41 | Added on Saturday, March 9, 2024 6:54:00 PM
+
+• &copy; - © • &trade; - ™ • &reg; - ® • &euro; - € • &larr; - ← • &uarr; - ↑ • &rarr; - → • &darr; - ↓ • &crarr; - ↵ • &lArr; - ⇐ • &rArr; - ⇒ • &laquo; - « • &raquo; - » • &nbsp; - [space]
+==========
+Professional-Web-Developer-2022  
+- Your Highlight on page 44-44 | Added on Saturday, March 9, 2024 9:00:33 PM
+
+External CSS
+==========
+Professional-Web-Developer-2022  
+- Your Highlight on page 45-45 | Added on Saturday, March 9, 2024 9:00:41 PM
+
+Internal CSS
+==========
+Professional-Web-Developer-2022  
+- Your Highlight on page 45-45 | Added on Saturday, March 9, 2024 9:01:07 PM
+
+Inline Style
+==========
+Professional-Web-Developer-2022  
+- Your Highlight on page 47-47 | Added on Saturday, March 9, 2024 9:01:16 PM
+
+Cascading Order
+==========
+Professional-Web-Developer-2022  
+- Your Highlight on page 47-47 | Added on Saturday, March 9, 2024 9:01:21 PM
+
+1. Browser Default 2. External Style 3. Internal Style 4. Inline Style
+==========
+Professional-Web-Developer-2022  
+- Your Highlight on page 49-49 | Added on Saturday, March 9, 2024 9:01:36 PM
+
+CSS Selectors
+==========
+Professional-Web-Developer-2022  
+- Your Highlight on page 49-49 | Added on Saturday, March 9, 2024 9:01:48 PM
+
+• Element/Type Selector • ID Selector • Class Selector • Attribute Selector
+==========
+Professional-Web-Developer-2022  
+- Your Highlight on page 50-50 | Added on Saturday, March 9, 2024 9:21:05 PM
+
+id တူနတဲ့ Element တမရှိသင့်ပါzူး။ တစ်
+==========
+Professional-Web-Developer-2022  
+- Your Highlight on page 50-50 | Added on Saturday, March 9, 2024 9:21:12 PM
+
+အမျိုးအစားတူတဲ့ Element တိုင်းကို class အတူတူပးလို့ရပါတယ်
+==========
+Professional-Web-Developer-2022  
+- Your Highlight on page 50-50 | Added on Saturday, March 9, 2024 9:21:36 PM
+
+class ရဲ့ Value ဟာ တစ်ခုထက်ပိုပးလို့ရ
+==========
+Professional-Web-Developer-2022  
+- Your Highlight on page 50-50 | Added on Saturday, March 9, 2024 9:21:49 PM
+
+HTML <p class="alert note active"> … </p>
+==========
+Professional-Web-Developer-2022  
+- Your Highlight on page 51-51 | Added on Saturday, March 9, 2024 9:24:36 PM
+
+HTML <p>Browser List</p> <p class="browser" id="popular">Google Chrome</p> <p class="browser">Mozilla Firefox</p> <input type="text"> <input type="submit">
+==========
+Professional-Web-Developer-2022  
+- Your Highlight on page 51-51 | Added on Saturday, March 9, 2024 9:25:08 PM
+
+CSS p { padding: 10px; } .browser { background: cyan; } #popular { font
+==========
+Professional-Web-Developer-2022  
+- Your Highlight on page 51-51 | Added on Saturday, March 9, 2024 9:25:14 PM
+
+CSS p { padding: 10px; } .browser { background: cyan; } #popular { font-weight: bold; }
+==========
+Professional-Web-Developer-2022  
+- Your Highlight on page 51-51 | Added on Saturday, March 9, 2024 9:25:23 PM
+
+input[type=text] { width: 400px; }
+==========
+Professional-Web-Developer-2022  
+- Your Highlight on page 49-49 | Added on Saturday, March 9, 2024 9:26:57 PM
+
+Element Selector (သို့မဟုတ်) Type Selector ဆိုတာ လိုရင်းကာ့ HTML Element ရဲ့ အမည် အတိုင်း Select လုပ်တာ
+==========
+Professional-Web-Developer-2022  
+- Your Highlight on page 49-49 | Added on Saturday, March 9, 2024 9:27:04 PM
+
+ID Selector ကိုတာ့ ရ့က # သတးခံပီး ရး
+==========
+Professional-Web-Developer-2022  
+- Your Highlight on page 50-50 | Added on Saturday, March 9, 2024 9:27:24 PM
+
+Class Selector ကိုတာ့ ရ့က Dot (.) သတးခံပီး ရး
+==========
+Professional-Web-Developer-2022  
+- Your Highlight on page 50-50 | Added on Saturday, March 9, 2024 9:27:41 PM
+
+Attribute Selector ကာ့ Element ရဲ့ Attribute ကိုကည့်ပီး Select လုပ်တာ
+==========
+Professional-Web-Developer-2022  
+- Your Highlight on page 53-53 | Added on Saturday, March 9, 2024 9:28:07 PM
+
+Selector တကို Comma ခံပီး Group လုပ်လို့လည်း ရပါတယ်။ ဒီလိုပါ - CSS h1, h2, h3 { color: brown; }
+==========
+Professional-Web-Developer-2022  
+- Your Highlight on page 53-53 | Added on Saturday, March 9, 2024 10:33:57 PM
+
+CSS မှာ ဒီလို Selector (၄)
+==========
+Professional-Web-Developer-2022  
+- Your Highlight on page 53-53 | Added on Saturday, March 9, 2024 10:34:01 PM
+
+Selector တကို oွဲ့စည်းပုံပါ မူတည်ပီး ရးယူလို့ရတဲ့ နည်းတgoစ်ပါ တယ်။ CSS
+==========
+Professional-Web-Developer-2022  
+- Your Highlight on page 53-53 | Added on Saturday, March 9, 2024 10:34:19 PM
+
+CSS မှာ ဒီလို Selector (၄) မျိုးရှိ
+==========
+Professional-Web-Developer-2022  
+- Your Highlight on page 53-53 | Added on Saturday, March 9, 2024 10:34:25 PM
+
+• Descendant Selector • Child Selector
+==========
+Professional-Web-Developer-2022  
+- Your Highlight on page 53-53 | Added on Saturday, March 9, 2024 10:34:42 PM
+
+Descendant Selector ဆိုတာ Element တစ်ခုအတွင်းထဲမှာ ရှိတဲ့ Element တကို Select လု်
+==========
+Professional-Web-Developer-2022  
+- Your Highlight on page 53-53 | Added on Saturday, March 9, 2024 10:34:50 PM
+
+Direct Child ကိုပဲ Select လုပ်
+==========
+Professional-Web-Developer-2022  
+- Your Highlight on page 55-55 | Added on Saturday, March 9, 2024 10:36:28 PM
+
+Selector Priority
+==========
+Professional-Web-Developer-2022  
+- Your Highlight on page 55-55 | Added on Saturday, March 9, 2024 10:37:05 PM
+
+ပိုတိကျရင် ပိုဥးစားပးပါတယ်
+==========
+Professional-Web-Developer-2022  
+- Your Highlight on page 57-57 | Added on Saturday, March 9, 2024 10:38:06 PM
+
+Selector တူရင် နာက်မှးတဲ့ Selector ကို အတည်ယူပီး၊ Selector မတူရင် ပိုတိကျတဲ့ Selector ကို အတည်ယူတယ်
+==========
+Professional-Web-Developer-2022  
+- Your Highlight on page 58-58 | Added on Saturday, March 9, 2024 10:41:35 PM
+
+Pseudo-Classes
+==========
+Professional-Web-Developer-2022  
+- Your Highlight on page 58-58 | Added on Saturday, March 9, 2024 10:41:38 PM
+
+:hover, :active, :visited
+==========
+Professional-Web-Developer-2022  
+- Your Highlight on page 60-60 | Added on Saturday, March 9, 2024 10:41:52 PM
+
+:first-child, :last-child နဲ့ :nth-child
+==========
+Professional-Web-Developer-2022  
+- Your Highlight on page 61-61 | Added on Saturday, March 9, 2024 10:43:27 PM
+
+:empty, :not နဲ့ :target
+==========
+Professional-Web-Developer-2022  
+- Your Highlight on page 61-61 | Added on Saturday, March 9, 2024 10:43:34 PM
+
+:before, ::after နဲ့ ::placeholder
+==========
+Professional-Web-Developer-2022  
+- Your Highlight on page 61-61 | Added on Saturday, March 9, 2024 10:43:44 PM
+
+focus, :checked, :readonly, :enabled, :disabled, :valid, :invalid
+==========
+Professional-Web-Developer-2022  
+- Your Highlight on page 62-62 | Added on Saturday, March 9, 2024 10:45:01 PM
+
+CSS Display
+==========
+Professional-Web-Developer-2022  
+- Your Highlight on page 62-62 | Added on Saturday, March 9, 2024 10:45:05 PM
+
+block နဲ့ inline
+==========
+Professional-Web-Developer-2022  
+- Your Highlight on page 63-63 | Added on Sunday, March 10, 2024 5:30:05 PM
+
+Inline Element တကို အရွယ်အစားသတ်မှတ်လို့ မရပါ zူး
+==========
+Professional-Web-Developer-2022  
+- Your Highlight on page 64-64 | Added on Sunday, March 10, 2024 5:30:45 PM
+
+Display Type ကို ပာင်းလို့ရပါတယ်။ display လို့ခါတဲ့ CSS Property ကိုသုံးရပါတယ်။
+==========
+Professional-Web-Developer-2022  
+- Your Highlight on page 64-64 | Added on Sunday, March 10, 2024 5:31:09 PM
+
+display Property အတွက် အသုံးများမယ့် Value (၄) ခုရှိပါတယ်။ • inline • block • none
+==========
+Professional-Web-Developer-2022  
+- Your Highlight on page 64-64 | Added on Sunday, March 10, 2024 5:31:16 PM
+
+• flex
+==========
+Professional-Web-Developer-2022  
+- Your Highlight on page 66-66 | Added on Sunday, March 10, 2024 5:34:45 PM
+
+display Property မှာတခား Value တ ရှိပါသးတယ်။ inline-block, list-item, table, table-cell, inline-flex, grid, inline-grid
+==========
+Professional-Web-Developer-2022  
+- Your Highlight on page 66-66 | Added on Sunday, March 10, 2024 5:34:55 PM
+
+CSS Box Model
+==========
+Professional-Web-Developer-2022  
+- Your Highlight on page 66-66 | Added on Sunday, March 10, 2024 5:35:19 PM
+
+• width • height • margin • padding • border
+==========
+Professional-Web-Developer-2022  
+- Your Highlight on page 71-71 | Added on Sunday, March 10, 2024 6:36:22 PM
+
+CSS Position
+==========
+Professional-Web-Developer-2022  
+- Your Highlight on page 75-75 | Added on Sunday, March 10, 2024 7:00:59 PM
+
+CSS Unit
+==========
+Professional-Web-Developer-2022  
+- Your Highlight on page 75-75 | Added on Sunday, March 10, 2024 7:01:30 PM
+
+• px • % • em • rem •
+==========
+Professional-Web-Developer-2022  
+- Your Highlight on page 75-75 | Added on Sunday, March 10, 2024 7:01:35 PM
+
+• px • % • em • rem • fr
+==========
+Professional-Web-Developer-2022  
+- Your Highlight on page 75-75 | Added on Sunday, March 10, 2024 7:04:19 PM
+
+Unit တးတဲ့အခါ တန်oိုးနဲ့ ကပ်ရးရပါတယ်
+==========
+Professional-Web-Developer-2022  
+- Your Highlight on page 75-75 | Added on Sunday, March 10, 2024 7:04:31 PM
+
+% နဲ့ em ကိုတာ့ Relative Unit လို့
+==========
+Professional-Web-Developer-2022  
+- Your Highlight on page 75-75 | Added on Sunday, March 10, 2024 7:04:55 PM
+
+width, height လိုဟာမျိုးမှာတာ့ ကွဲလွဲမှရှိပါတယ်
+==========
+Professional-Web-Developer-2022  
+- Your Highlight on page 76-76 | Added on Sunday, March 10, 2024 7:05:02 PM
+
+CSS Color
+==========
+Professional-Web-Developer-2022  
+- Your Highlight on page 76-76 | Added on Sunday, March 10, 2024 7:08:17 PM
+
+Color Name, RGB, Hex နဲ့ RGBA
+==========
+Professional-Web-Developer-2022  
+- Your Highlight on page 78-78 | Added on Sunday, March 10, 2024 7:08:45 PM
+
+CSS Properties
+==========
+Professional-Web-Developer-2022  
+- Your Highlight on page 78 | Added on Sunday, March 10, 2024 7:10:00 PM
+
+background
+==========
+Professional-Web-Developer-2022  
+- Your Highlight on page 79-79 | Added on Sunday, March 10, 2024 7:10:05 PM
+
+border-radius
+==========
+Professional-Web-Developer-2022  
+- Your Highlight on page 79 | Added on Sunday, March 10, 2024 7:10:24 PM
+
+cursor
+==========
+Professional-Web-Developer-2022  
+- Your Highlight on page 80-80 | Added on Sunday, March 10, 2024 7:10:55 PM
+
+font-family
+==========
+Professional-Web-Developer-2022  
+- Your Highlight on page 80-80 | Added on Sunday, March 10, 2024 7:11:10 PM
+
+@font-face
+==========
+Professional-Web-Developer-2022  
+- Your Highlight on page 81-81 | Added on Sunday, March 10, 2024 7:11:53 PM
+
+@import
+==========
+Professional-Web-Developer-2022  
+- Your Highlight on page 81-81 | Added on Sunday, March 10, 2024 7:12:18 PM
+
+list-style
+==========
+Professional-Web-Developer-2022  
+- Your Highlight on page 81-81 | Added on Monday, March 11, 2024 6:01:24 PM
+
+text-align
+==========
+Professional-Web-Developer-2022  
+- Your Highlight on page 81-81 | Added on Monday, March 11, 2024 6:01:34 PM
+
+text-decoration
+==========
+Professional-Web-Developer-2022  
+- Your Highlight on page 82-82 | Added on Monday, March 11, 2024 6:02:02 PM
+
+line-height, letter-spacing, word-spacing
+==========
+Professional-Web-Developer-2022  
+- Your Highlight on page 82-82 | Added on Monday, March 11, 2024 6:02:33 PM
+
+CSS Comments
+==========
+Professional-Web-Developer-2022  
+- Your Highlight on page 89-89 | Added on Tuesday, March 12, 2024 1:16:18 AM
+
+Reset နဲ့ Normalize ဆိုပီး နှစ်မျိုးရှိတယ်။ Reset က Default Style တ အကုန်ရှင်းပစ်ပီး Normalize ကာ့ Default Style တကို ညီအာင် ညှိးလိုက်တယ်လို့ မှတ်နိုင်ပါ တယ်
+==========
+The Complete Trader: Section 4: The Definitive Guide to Mastering the Psychology of Market Behavior to Instill a Winning Trader's Mindset (Mark Douglas;Paula T. Webb)
+- Your Highlight on Location 421-423 | Added on Tuesday, March 12, 2024 5:44:05 PM
+
+To execute flawlessly there can’t be any potential for you to experience fear, regret, second thoughts, resistance, hesitation, or change your mind about what you’re supposed to do, when you’re supposed to do it.
+==========
+$100M Offers: How To Make Offers So Good People Feel Stupid Saying No (Alex Hormozi)
+- Your Highlight on page 9 | Location 131-132 | Added on Wednesday, March 13, 2024 5:23:13 PM
+
+“Magic will find those with pure hearts, even when all seems lost.” — MORGAN RHODES
+==========
+$100M Offers: How To Make Offers So Good People Feel Stupid Saying No (Alex Hormozi)
+- Your Highlight on page 17 | Location 251-252 | Added on Wednesday, March 13, 2024 5:23:48 PM
+
+“Make people an offer so good they would feel stupid saying no.” — TRAVIS JONES
+==========
+$100M Offers: How To Make Offers So Good People Feel Stupid Saying No (Alex Hormozi)
+- Your Highlight on page 20 | Location 296-298 | Added on Wednesday, March 13, 2024 5:28:11 PM
+
+No offer? No business. No life. Bad offer? Negative profit. No business. Miserable life. Decent offer? No profit. Stagnating business. Stagnating life.
+==========
+$100M Offers: How To Make Offers So Good People Feel Stupid Saying No (Alex Hormozi)
+- Your Highlight on page 20 | Location 298-300 | Added on Wednesday, March 13, 2024 5:28:39 PM
+
+Good offer? Some profit. Okay business. Okay life. Grand Slam Offer? Fantastic profit. Insane business. Freedom.
+==========
+$100M Offers: How To Make Offers So Good People Feel Stupid Saying No (Alex Hormozi)
+- Your Highlight on page 21 | Location 312-313 | Added on Wednesday, March 13, 2024 5:29:51 PM
+
+two big kahunas: 1. Not enough clients 2. Not enough cash (excess profit at the end of the month)
+==========
+Trading in the Zone: Master the Market with Confidence, Discipline, and a Winning Attitude (Mark Douglas)
+- Your Highlight on page 194 | Location 2961-2962 | Added on Thursday, March 14, 2024 5:47:36 PM
+
+you can try to be intuitive is to work at setting up a state of mind most conducive to receiving and acting on your intuitive impulses.
+==========
+Trading in the Zone: Master the Market with Confidence, Discipline, and a Winning Attitude (Mark Douglas)
+- Your Highlight on page 196 | Location 3004-3005 | Added on Thursday, March 14, 2024 6:21:04 PM
+
+No one likes to be in a state of emotional pain, so we typically avoid acknowledging what we have learned to define as a mistake for as long as possible.
+==========
+Trading in the Zone: Master the Market with Confidence, Discipline, and a Winning Attitude (Mark Douglas)
+- Your Highlight on page 201 | Location 3068-3069 | Added on Thursday, March 14, 2024 6:49:34 PM
+
+When you’re clear about your purpose, simply start directing your attention to what you think, say, or do.
+==========
+Trading in the Zone: Master the Market with Confidence, Discipline, and a Winning Attitude (Mark Douglas)
+- Your Highlight on page 200 | Location 3059-3066 | Added on Friday, March 15, 2024 5:01:32 PM
+
+If you’re going to become a consistent winner, mistakes can’t exist in the kind of negatively charged context in which they are held by most people. You have to be able to monitor yourself to some degree, and that will be difficult to do if you have the potential to experience emotional pain if and when you find yourself in the process of making an error. If this potential exists, you have two choices: 1. You can work on acquiring a new set of positively charged beliefs about what it means to make a mistake, along with de-activating any negatively charged beliefs that would argue otherwise or cause you to think less of yourself for making a mistake. 2. If you find this first choice undesirable, you can compensate for the potential to make errors by the way you set up your trading regime. This means that if you’re going to trade and not monitor yourself, but at the same time you desire consistent results, then trading exclusively from the mechanical stage will resolve the dilemma.
+==========
+Trading in the Zone: Master the Market with Confidence, Discipline, and a Winning Attitude (Mark Douglas)
+- Your Highlight on page 201 | Location 3081-3082 | Added on Friday, March 15, 2024 5:06:18 PM
+
+self-discipline is a technique to create a new mental framework. It is not a personality trait; people aren’t born with self-discipline.
+==========
+Trading in the Zone: Master the Market with Confidence, Discipline, and a Winning Attitude (Mark Douglas)
+- Your Highlight on page 212 | Location 3244-3246 | Added on Friday, March 15, 2024 5:28:04 PM
+
+At the micro level, the outcomes to individual edges are independent occurrences and random in relationship to one another. At the macro level, the outcomes over a series of trades will produce consistent results.
+==========
+Trading in the Zone: Master the Market with Confidence, Discipline, and a Winning Attitude (Mark Douglas)
+- Your Highlight on page 212 | Location 3246-3250 | Added on Friday, March 15, 2024 5:28:23 PM
+
+From a probabilities perspective, this means that instead of being the person playing the slot machine, as a trader, you can be the casino, if: 1. you have an edge that genuinely puts the odds of success in your favor; 2. you can think about trading in the appropriate manner (the five fundamental truths); and 3. you can do everything you need to do over a series of trades.
+==========
+Trading in the Zone: Master the Market with Confidence, Discipline, and a Winning Attitude (Mark Douglas)
+- Your Highlight on page 215 | Location 3294-3296 | Added on Friday, March 15, 2024 7:01:01 PM
+
+determine, in a down-trending market, how far it can rally on an intraday basis and still not violate the symmetry of the longer trend. In an up-trending market, your objective is to determine how far it can sell off on an intraday basis without violating the symmetry of the longer trend.
+==========
