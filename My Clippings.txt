@@ -123,3 +123,13 @@ get both the (truncated) quotient and remainder
 
 a function named divmod is given the integers 9 and 5 and returns a two-item tuple.
 ==========
+﻿Why We Die (Venki Ramakrishnan)
+- Your Highlight on page 36 | Location 539-539 | Added on Friday, December 20, 2024 11:38:23 PM
+
+mathematician. Gompertz worked for an insurance company, and
+==========
+﻿The Formula (Luke Dormehl)
+- Your Highlight on page 6 | Location 90-90 | Added on Friday, December 20, 2024 11:39:20 PM
+
+lawyers’ fees have in common? This
+==========
